@@ -2,7 +2,7 @@
 The algorithm visualizer helps to visualize three sorting (insertion, selection and bubble) and one searching algorithm (binary search). The project was built using SFML Library and coded in C++ for linux operating system.
 
 Build Instructions:
-1. First download and install the g++ compiler using the following commands:
+1. First download and install the g++ compiler using the following command:
    sudo apt update && sudo apt install build-essential
 2. Then download the SFML Library using the following command:
    sudo apt-get install libsfml-dev
