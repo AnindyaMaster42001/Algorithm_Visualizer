@@ -6,6 +6,6 @@ Build Instructions:
    sudo apt update && sudo apt-get -y install g++
 2. Then download the SFML Library using the following command:
    sudo apt-get install libsfml-dev
-3. Then install the zip project file and extract it.
+3. Then download the zip project file and extract it.
 4. Open the terminal in the project directory and run the following command:
    make && ./main_app
